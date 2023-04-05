@@ -96,29 +96,25 @@ print("Size of X_test: ",len(X_test))
 
 ## OUTPUT:
 ### Dataset and Its Properties
-![output](1.png)
-
-![output](2.png)
-
-![output](3.png)
-
-![output](4.png)
-
-![output](5.png)
+![1](https://user-images.githubusercontent.com/93427254/230002649-9d967a13-cf95-4f05-b508-e9e29adcd01c.png)
+![2](https://user-images.githubusercontent.com/93427254/230002650-3c19bc81-47ae-4856-ab79-47bbbadda151.png)
+![3](https://user-images.githubusercontent.com/93427254/230002652-9d83de01-375f-496a-8533-39bd5599bfe4.png)
+![4](https://user-images.githubusercontent.com/93427254/230002617-c47ee70b-107e-4abd-ae86-cfb34c562fc8.png)
+![5](https://user-images.githubusercontent.com/93427254/230002629-04c32999-e79a-48f6-90cc-f81f25496ab8.png)
 
 ### Normalised Dataset
-![output](6.png)
+![6](https://user-images.githubusercontent.com/93427254/230002632-45b51e60-2f4f-491b-9b98-6a662675b4a7.png)
 
 ### X and Y Column Data
-![output](7.png)
-
-![output](8.png)
+![7](https://user-images.githubusercontent.com/93427254/230002634-67a6129e-6de6-4d64-8114-80e5107c07f0.png)
+![8](https://user-images.githubusercontent.com/93427254/230002636-ec9e678b-512f-492f-80ae-1aff81224e73.png)
 
 ### Training Data
-![output](9.png)
+![9](https://user-images.githubusercontent.com/93427254/230002640-e1c61467-ac2a-45ff-a193-93a8baa69793.png)
 
 ### Test Data
-![output](10.png)
+![10](https://user-images.githubusercontent.com/93427254/230002646-0677b9f7-437c-4568-82ef-4b0db8c6f9cc.png)
+
 
 ## RESULT
 Thus, the Data preprocessing is performed over a data set successfully.
